@@ -1,0 +1,13 @@
+.tools/
+.gradle/
+.kotlin/
+.venv/
+.data/
+**/build/
+**/__pycache__/
+local.properties
+.env
+*.xcuserstate
+xcuserdata/
+.DS_Store
+*.log
